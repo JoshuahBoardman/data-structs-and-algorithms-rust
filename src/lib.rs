@@ -1,3 +1,1 @@
-pub mod Zelda {
-    pub const Hero: &str = "Link";
-}
+pub mod data_structs;
